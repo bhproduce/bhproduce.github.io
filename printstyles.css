@@ -1,0 +1,17 @@
+/* zero browsers, set content margin and set font */
+footer {font-family: "Courier New", serif;
+      font-size: 12pt;}
+
+header {display: none;}
+
+/* nav - do not show navigation when printing */
+nav {display: none;}
+
+#wrapper {display: none;}
+
+<p> College Daze A Pilot About Nothing
+ 
+ 
+ 
+ 
+By Ian Rey Sifuentes & José Gustavo Castillo   </p>
